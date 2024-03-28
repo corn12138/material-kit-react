@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:29:32.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="x5364CcjcD7v8toiWMMm" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T06:38:34.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xkSvXheojwAWcvgZnkQo" version="24.2.0" type="github">
   <diagram name="第 1 页" id="R4-ZUkijiIR4iluJVMZt">
     <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,27 @@
         </mxCell>
         <mxCell id="CVSLRsANvx-6_cyvt9ej-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;vdom&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-46" target="CVSLRsANvx-6_cyvt9ej-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-46" value="MVVM" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-47" value="数据监听&lt;div&gt;object.defineproperty或者proxy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-48" target="CVSLRsANvx-6_cyvt9ej-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-48" value="Observer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-49" value="Dep" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-52" value="依赖主体" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1370" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
