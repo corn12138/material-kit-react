@@ -1,70 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:13:10.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5paPAW7CBPIR0Fb9a5sx" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T06:13:53.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7XbbPtGOB5RNvf-rXaSM" version="24.2.0" type="github">
   <diagram name="第 1 页" id="R4-ZUkijiIR4iluJVMZt">
     <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-1" target="CVSLRsANvx-6_cyvt9ej-2">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-1" target="CVSLRsANvx-6_cyvt9ej-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-1" value="&lt;h1 style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;subject&lt;/i&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;add&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;remove&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;notify（）&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-1" value="&lt;h1 style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;subject&lt;/i&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;add&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;remove&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;notify（）&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="45" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="75" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-2" value="&lt;h1 style=&quot;&quot;&gt;update&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-2" value="&lt;h1 style=&quot;&quot;&gt;update&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-7" target="CVSLRsANvx-6_cyvt9ej-8">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-7" target="CVSLRsANvx-6_cyvt9ej-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-7" value="感知到变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-7" value="感知到变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-8" value="数据劫持" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-8" value="数据劫持" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-10" target="CVSLRsANvx-6_cyvt9ej-11">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-10" target="CVSLRsANvx-6_cyvt9ej-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-10" value="通知对方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-10" value="通知对方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-11" target="CVSLRsANvx-6_cyvt9ej-13">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-11" target="CVSLRsANvx-6_cyvt9ej-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-11" target="CVSLRsANvx-6_cyvt9ej-15">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-11" target="CVSLRsANvx-6_cyvt9ej-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-11" value="对方是谁&lt;div&gt;有多少对方&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-11" value="对方是谁&lt;div&gt;有多少对方&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-13" target="CVSLRsANvx-6_cyvt9ej-17">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-13" target="CVSLRsANvx-6_cyvt9ej-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-13" value="通知" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-13" value="通知" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-15" target="CVSLRsANvx-6_cyvt9ej-17">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-15" target="CVSLRsANvx-6_cyvt9ej-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-15" value="依赖收集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-15" value="依赖收集" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-17" value="发布更新" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-17" value="发布更新" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-21" value="&lt;b&gt;compile&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-21" value="&lt;b&gt;compile&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="620" width="670" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-22" value="dom diff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-22" value="dom diff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-23" value="指令、基建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-23" value="指令、基建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
