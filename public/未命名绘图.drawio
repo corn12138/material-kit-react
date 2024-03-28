@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:45:50.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2j3SN2eu8B4g8H8rEOIm" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T06:48:32.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SmbdPRg3LTpCA9u4alpe" version="24.2.0" type="github">
   <diagram name="第 1 页" id="R4-ZUkijiIR4iluJVMZt">
     <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,22 +102,22 @@
         <mxCell id="CVSLRsANvx-6_cyvt9ej-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;core&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="470" y="845" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;global-api&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;global-api&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;全局对外暴露的api&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;components&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;components&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心基建仓库&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;instance&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;instance&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心主入口 、实例&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;util&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;util&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;工具&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;observer&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;observer&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;实现 响应式的 核心&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVSLRsANvx-6_cyvt9ej-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;vdom&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="CVSLRsANvx-6_cyvt9ej-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;vdom&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;虚拟dom的&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="670" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CVSLRsANvx-6_cyvt9ej-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="CVSLRsANvx-6_cyvt9ej-46" target="CVSLRsANvx-6_cyvt9ej-48">
